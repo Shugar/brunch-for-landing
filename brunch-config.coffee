@@ -18,6 +18,7 @@ exports.config =
 
     postcss:
       processors: [
-          require('autoprefixer')(['> 1%','last 8 versions']),
-          require('postcss-flexbugs-fixes')
+          require('autoprefixer')(['> 1%','last 8 versions','ie 9']),
+          require('postcss-flexbugs-fixes'),
+          require('postcss-flexibility')
       ]

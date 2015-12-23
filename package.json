@@ -22,13 +22,14 @@
     "clean-css-brunch": "^1.7.2",
     "coffee-script-brunch": "^1.8.3",
     "css-brunch": "^1.7.0",
+    "flexibility": "^0.2.1",
+    "jaded-brunch": "^1.7.13",
     "javascript-brunch": "^1.8.0",
     "postcss-brunch": "^0.5.0",
     "postcss-flexbugs-fixes": "^2.0.0",
+    "postcss-flexibility": "^1.0.0",
     "sass-brunch": "^1.8.3",
     "uglify-js-brunch": "^1.7.8"
   },
-  "dependencies": {
-    "jaded-brunch": "^1.7.13"
-  }
+  "dependencies": {}
 }
